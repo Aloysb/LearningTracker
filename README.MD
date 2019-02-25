@@ -38,7 +38,7 @@ Lack of time?
 
 Skills | Notions | Basics | Good | Very Good | Confident | Gun |
 -------|---------|--------|------|-----------|-----------|-----|
-Markdown |:v|:v|||||
+Markdown |:v:|:v:|||||
 HTML5 |||||||
 CSS |||||||
 JAVASCRIPT |||||||
@@ -47,7 +47,7 @@ Node.js |||||||
 Project Architecture |||||||
 Template |||||||
 
-Test
+
 
 # Logbook
 
