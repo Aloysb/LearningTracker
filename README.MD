@@ -12,27 +12,27 @@ What I haven't recorded in the past:
  	Course done from May 2018 to September 2018. Need a refresher but learned a lot.
 
 ## Why I start this log
-	I start this log after reading an article from Medium. 
-	My past attempts have all 'failed', but I have learned a lot.
-	I still feel like I am trying to learn to swim in the middle of the ocean, and I feel the more I know, the less I know.
-	This log is an attempt to 'fix' what I learn, develop a clearer roadmap for learning, documenting my journey, celebrating little achievements and helping to keep my motivation up.
-	Also, as a 'side-effect', to help me improve my english and writing skills.
+I start this log after reading an article from Medium. 
+My past attempts have all 'failed', but I have learned a lot.
+I still feel like I am trying to learn to swim in the middle of the ocean, and I feel the more I know, the less I know.
+This log is an attempt to 'fix' what I learn, develop a clearer roadmap for learning, documenting my journey, celebrating little achievements and helping to keep my motivation up.
+Also, as a 'side-effect', to help me improve my english and writing skills.
 
 ## Goal: why code?
-	As a plan B for body wearing work.
-	Always enjoyed coding, thought I might enjoy it as a work.
+As a plan B for body wearing work.
+Always enjoyed coding, thought I might enjoy it as a work.
 
-	Location free job.
-	Little set up costs.
-	Future proof job.
-	Opportunity for remote work and part time, with appealing salaries.
+Location free job.
+Little set up costs.
+Future proof job.
+Opportunity for remote work and part time, with appealing salaries.
 
 
 ## Why did I failed in the past?
-	Hard, very complex, lost.
-	Questionned why I was learning.
-	No programming buddies?
-	Lack of time?
+Hard, very complex, lost.
+Questionned why I was learning.
+No programming buddies?
+Lack of time?
 
 # Skills tracker
 
@@ -63,7 +63,7 @@ Template |||||||
 
 * Used GIT on the current work today (init, status, add, commit).
 
-* Started responsive project #3 (Landing page) on FCC. Attempted to use SASS (failed :) )
+* Started responsive project #3 (Landing page) on FCC. Attempted to use SASS (failed :))
 
 * Topped up my motivation to become a web developper.
 
