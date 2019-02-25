@@ -38,7 +38,7 @@ Lack of time?
 
 Skills | Notions | Basics | Good | Very Good | Confident | Gun |
 -------|---------|--------|------|-----------|-----------|-----|
-Markdown |||||||
+Markdown |:v|:v|||||
 HTML5 |||||||
 CSS |||||||
 JAVASCRIPT |||||||
@@ -47,9 +47,11 @@ Node.js |||||||
 Project Architecture |||||||
 Template |||||||
 
-#Logbook
+Test
 
-##25 February 2018
+# Logbook
+
+## 25 February 2018
 ### HTML, SASS, TERMINAL, MARKUP, API, JAVASCRIPT, NODE, GIT
 
 * Tried to develop a mini program to feed expenses from a CSV in Splitwise. Project abandonned. Practiced JS, reading API documentation, terminal (how to print out a function).
