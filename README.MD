@@ -100,3 +100,4 @@ Template |||||||
 * Read Eloquent Javascript on DOM
 * Switched to Atom.io => love it!
   * Installed packages, struggle with keybindings conflicts.
+  * This is a test line to try Git-plus :smile:
