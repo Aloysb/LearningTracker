@@ -39,11 +39,11 @@ Lack of time?
 Skills | Notions | Basics | Good | Very Good | Confident | Gun |
 -------|---------|--------|------|-----------|-----------|-----|
 Markdown |:v:|:v:|||||
-HTML5 |||||||
-CSS |||||||
-JAVASCRIPT |||||||
+HTML5 |:v:|:v:|||||
+CSS |:v:|:v:|||||
+Javascript |:v:|:v:|||||
 Sass |:v:||||||
-Node.js |||||||
+Node.js |:v:||||||
 Project Architecture |:v:||||||
 Design: colors |:v:||||||
 Template |||||||
