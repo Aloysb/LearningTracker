@@ -42,9 +42,9 @@ Markdown |:v:|:v:|||||
 HTML5 |||||||
 CSS |||||||
 JAVASCRIPT |||||||
-Sass |||||||
+Sass |:v:||||||
 Node.js |||||||
-Project Architecture |||||||
+Project Architecture |:v:||||||
 Template |||||||
 
 
@@ -52,7 +52,7 @@ Template |||||||
 # Logbook
 
 ## 25 February 2018
-### HTML, SASS, TERMINAL, MARKUP, API, JAVASCRIPT, NODE, GIT
+##### HTML, SASS, TERMINAL, MARKUP, API, JAVASCRIPT, NODE, GIT
 
 * Tried to develop a mini program to feed expenses from a CSV in Splitwise. Project abandonned. Practiced JS, reading API documentation, terminal (how to print out a function).
 	* Run script in the terminal using Node
@@ -73,5 +73,18 @@ Template |||||||
 
 * Read a chapter about asynchronous programming in Eloquent Javascript. Haven't grasped all the concepts!
 
+## 26 February 2018
+##### SASS,GIT
 
+* Set up Sass --watch for Sass on the FCC Responsive Project #3
+
+* Build up a simple architecture for the project
+
+* Learnt about colors trough material-UI and smashing magazine:
+	* One primary color
+	* One accent color
+	* One background color
+	* One gray for the subbackground (:?:)
+	* The on colors => needs to reread this, it's about the text colors.
+	
 
