@@ -84,6 +84,7 @@ Template |||||||
 
 * Set up Sass --watch for Sass on the FCC Responsive Project #3
 
+
 * Build up a simple architecture for the project
 
 * Learnt about colors trough material-UI and smashing magazine:
