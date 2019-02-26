@@ -102,3 +102,5 @@ Template |||||||
 * Switched to Atom.io => love it!
   * Installed packages, struggle with keybindings conflicts.
   * This is a test line to try Git-plus :smile:
+
+* Did my (second?) first contribution to Github [here](https://github.com/Syknapse/Contribute-To-This-Project/pull/189), following an article I've read on Medium. :bowtie::clap::+1:
