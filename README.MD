@@ -1,5 +1,4 @@
 #Web Developper logbook
-
 ## Past - What happened until now
 
 What I haven't recorded in the past:
@@ -12,7 +11,7 @@ What I haven't recorded in the past:
  	Course done from May 2018 to September 2018. Need a refresher but learned a lot.
 
 ## Why I start this log
-I start this log after reading an article from Medium. 
+I start this log after reading an article from Medium.
 My past attempts have all 'failed', but I have learned a lot.
 I still feel like I am trying to learn to swim in the middle of the ocean, and I feel the more I know, the less I know.
 This log is an attempt to 'fix' what I learn, develop a clearer roadmap for learning, documenting my journey, celebrating little achievements and helping to keep my motivation up.
@@ -99,6 +98,5 @@ Template |||||||
 	![Example Palette color](./img/Colorpaletteexample.png)
 
 * Read Eloquent Javascript on DOM
-
-
-
+* Switched to Atom.io => love it!
+  * Installed packages, struggle with keybindings conflicts.
