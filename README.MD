@@ -51,7 +51,9 @@ Template |||||||
 # RESSOURCES
 
 ###Design
+
 ##### Color
+
 [Color system according to Material UI](https://material.io/design/color/#color-theme-creation)
 
 # Logbook
@@ -94,7 +96,7 @@ Template |||||||
 	* 'ONs' color (on Primary, on Accent, etc)
 	* Then you can use different shade of the primary/secondary color (hue) as required to separate section (example: App bar vs PhoneSystem bar)
 
-	[Example Palette color](./img/Colorpaletteexample.png)
+	[Example Palette color](https://github.com/Aloysb/LearningTracker/blob/master/img/Colorpaletteexample.png)
 
 * Read Eloquent Javascript on DOM
 
