@@ -1,4 +1,4 @@
-#Web Developper logbook
+# Web Developper logbook
 ## Past - What happened until now
 
 What I haven't recorded in the past:
@@ -49,7 +49,7 @@ Template |||||||
 
 # RESSOURCES
 
-###Design
+### Design
 
 ##### Color
 
