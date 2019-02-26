@@ -45,9 +45,14 @@ JAVASCRIPT |||||||
 Sass |:v:||||||
 Node.js |||||||
 Project Architecture |:v:||||||
+Design: colors |:v:||||||
 Template |||||||
 
+# RESSOURCES
 
+###Design
+##### Color
+[Color system according to Material UI](https://material.io/design/color/#color-theme-creation)
 
 # Logbook
 
@@ -83,8 +88,15 @@ Template |||||||
 * Learnt about colors trough material-UI and smashing magazine:
 	* One primary color
 	* One accent color
-	* One background color
-	* One gray for the subbackground (:?:)
-	* The on colors => needs to reread this, it's about the text colors.
-	
+	* One background color (components)
+	* One surface background (behind scrollable content)
+	* Error color
+	* 'ONs' color (on Primary, on Accent, etc)
+	* Then you can use different shade of the primary/secondary color (hue) as required to separate section (example: App bar vs PhoneSystem bar)
+
+	[Example Palette color](./img/Colorpaletteexample.png)
+
+* Read Eloquent Javascript on DOM
+
+
 

@@ -1,0 +1,26 @@
+.primary{
+	background-color: #e91e63;
+}
+
+.primary>p{
+	color: #FFFFFF;
+}
+
+.accent{
+	background-color: #c6ff00;
+}
+
+p{
+	margin:0;
+	font-size: 1.5em;
+	padding:0.5em;
+}
+
+.onSupport{
+
+}
+
+.error{
+	background-color: #E00020;
+	color:#FFFFFF;
+}
