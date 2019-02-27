@@ -111,5 +111,10 @@ Template |||||||
 * Contributed to another repo, MoCkInGcAsE.
 Great as I knew exactly what to do.
 Unfortunaly my PR had some issues and as I tried to update it, the test tool (Travis CI), would not take into account my new commits. Waiting for the admin to help me out.
+__*Update:*__ Woohoo! found it!
 
 * ~~Wrote~~ Copy-Paster my first test :smiley: in that same contribution
+
+* Asked to update the Typescript declaration file ... Read about Typescript for a little.
+
+* Posted my first question on Stack [here](https://stackoverflow.com/questions/54902328/typescript-function-declaration-with-multiple-type)!
