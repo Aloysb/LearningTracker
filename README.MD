@@ -118,3 +118,55 @@ __*Update:*__ Woohoo! found it!
 * Asked to update the Typescript declaration file ... Read about Typescript for a little.
 
 * Posted my first question on Stack [here](https://stackoverflow.com/questions/54902328/typescript-function-declaration-with-multiple-type)!
+
+## 27 February 2018
+##### GIT, Javascript, Typescript, stackoverflow, HTML
+
+* Question answered on Stackoverflow, great.
+
+* Updated my PR as per review.
+
+* Studied the new tag in HTML 5 and how to use them:
+  * `<Aside>`
+  * `<Main>`
+  * ``<Article>``
+  * ``<Footer>``
+  * ``<Header>``
+  * ``<Section>``
+  * ``<Nav>``
+
+* Studied the difference between the two main programming paradigms, functional and OOP.
+  ###### Functional:
+    The program is run through a series of pure function.
+    The state (data) of the program is held outside of the function
+    A function is pure if:
+
+    1. Does not change the state (immutability?)
+    1. Does not trigger side effect
+    1. The same input return the same output, everytime.
+
+  ###### OOP:
+    State and methods are contained into object (great for hiding to the outside world (encapsulation)).
+    State can change (with SETs methods).
+    An object is made of methods and attributes, and they are grouped together into the object.
+
+
+**Example:**
+
+  We have 5 green cars and we decide to repaint them in red.
+
+    ```
+    let carsColours = [green, green, green, green, ** green]
+
+    repaintCar(car, newColour) => {
+        car = colour;
+      }
+
+      repaintCarInRed = (car => repaintCar(car, 'red'));
+
+      repaintFleetOfCar = (cars, colour) => {
+        for (car) in cars => repaintCar(car, colour)
+      };
+      ```
+
+  Okay, this is going out of control will have to work a bit more on that example => I am unsure how to represent the state in functional (two dimensional array?)
