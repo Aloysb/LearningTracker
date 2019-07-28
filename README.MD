@@ -60,7 +60,7 @@ Template |||||||
 ## 25 February 2018
 ##### HTML, SASS, TERMINAL, MARKUP, API, JAVASCRIPT, NODE, GIT
 
-* Tried to develop a mini program to feed expenses from a CSV in Splitwise. Project abandonned. Practiced JS, reading API documentation, terminal (how to print out a function).
+* Tried to develop a mini program to feed expenses from a CSV in Splitwise. Project abandoned. Practiced JS, reading API documentation, terminal (how to print out a function).
 	* Run script in the terminal using Node
 	* Arrow function
 	* Printing out function body using Function.toString()
